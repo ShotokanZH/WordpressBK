@@ -9,8 +9,8 @@
 #+-$BEGIN----------------------+
 
 wp_path="www";
-bk_path="backup"
-sh_user="shotokan" #put here the username of the owner of the wordpress install.
+bk_path="backup";
+sh_user="shotokan"; #put here the username of the owner of the wordpress install.
 #don't edit below!
 chown "root:root" "$0";
 chmod "700" "$0";
